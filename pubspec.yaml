@@ -1,0 +1,10 @@
+name: pub_wbcli
+version: 0.0.1
+description: pub wb flutter study by rxdart
+dependencies:
+  rxdart: ^0.20.0
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+authors:
+  - riskers <gaoyibobobo@gmail.com>
+homepage: https://github.com/riskers/dart-pub
