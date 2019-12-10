@@ -6,5 +6,5 @@ dependencies:
 environment:
   sdk: '>=2.0.0 <3.0.0'
 authors:
-  - riskers <gaoyibobobo@gmail.com>
-homepage: https://github.com/riskers/dart-pub
+  - wang haijun <haijun.goo@gmail.com>
+homepage: https://github.com/153493932/pub_wb_hello
